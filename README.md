@@ -1,10 +1,10 @@
 # Airgead-Banking
 # Banking App, Deposit and Investment amounts
 
-+ 1. Summarize the project and what problem it was solving.
-   The client requested a banking app to show the end user the deposit amounts and the investment gained with or without additional deposits
-+ 2. What did you do particularly well?
-   Executing the data by using for loops once I figured it out, and making the code to run without errors that I could see.
++ 1. Summarize the project and what problem it was solving.\n
+   +The client requested a banking app to show the end user the deposit amounts and the investment gained with or without additional deposits
++ 2. What did you do particularly well?\n
+   +Executing the data by using for loops once I figured it out, and making the code to run without errors that I could see.
 + 3. Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
    My main issue is commenting and keeping the code readable as much as possible.
 + 4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
